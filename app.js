@@ -74,8 +74,10 @@ document.querySelectorAll(".column").forEach((e) => {
             document.getElementById(`${e.id}r${sum}`).style.backgroundColor = "red"
             turn++
             check('red')
-            document.getElementById("whosturn").innerText = "Yellow's Turn"
+            document.getElementById("whosturn").innerText = "Yellow's Turn" 
+            
         }
+        
         //This Else IF statement changes the background color of the White circle to Yellow.
         else if (sum <= 6 && turn % 2 == 0) {
             document.getElementById(`${e.id}r${sum}`).style.backgroundColor = "yellow"
@@ -91,3 +93,4 @@ document.querySelectorAll(".column").forEach((e) => {
 
     })
 })
+ 
