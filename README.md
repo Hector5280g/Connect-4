@@ -1,7 +1,7 @@
 # Connect-4 - Made with HTML, CSS, Javascript 
 Connect 4 game - made with HTML, CSS, Javascript 
 
-Hello, Welcome to my github. Link to play - https://hector5280g.github.io/Connect-4/
+Hello, Welcome to my github. Link to play - https://hectorlgarcia.github.io/Connect-4/
 Intructions:
 This is a two player game. Eventaully ill make it so computer plays aganist you.
 1) Player 1 is red and Player 2 is yellow.
